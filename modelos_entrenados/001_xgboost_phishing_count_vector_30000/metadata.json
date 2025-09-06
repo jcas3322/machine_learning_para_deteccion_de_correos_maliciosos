@@ -1,0 +1,28 @@
+{
+  "rank": 1,
+  "created_at": "2025-08-12T23:07:47Z",
+  "id": "ce490212f2",
+  "config": {
+    "name": "phishing_count_vector",
+    "stemming": false,
+    "lemmatization": false,
+    "remove_stopwords": false,
+    "extract_features": true,
+    "vectorizer": "count",
+    "max_features": 20000,
+    "ngram_range": [
+      1,
+      2
+    ]
+  },
+  "metrics": {
+    "accuracy": 0.9675,
+    "precision": 0.9458972046889089,
+    "recall": 0.9952561669829222,
+    "f1_score": 0.9699491447064262,
+    "matthews_corrcoef": 0.9360488313444264,
+    "cohen_kappa": 0.9346151447419511,
+    "auc_roc": 0.9960690373128042,
+    "false_positive_rate": 0.06342494714587738,
+    "false_negative_rate": 0.004743833017077799,
+    "true_negatives": 

@@ -1,0 +1,2 @@
+fecha,n_correos,segundos_totales,segundos_promedio_por_correo,modelo
+2025-09-04 20:34:46,2000,2.753157,0.001335,003_xgboost_count_vector_9000

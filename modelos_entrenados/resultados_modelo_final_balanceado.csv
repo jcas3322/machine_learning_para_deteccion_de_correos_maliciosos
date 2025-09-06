@@ -1,0 +1,2 @@
+accuracy,precision,recall,f1_score,matthews_corrcoef,cohen_kappa,auc_roc,false_positive_rate,false_negative_rate,true_negatives,false_positives,false_negatives,true_positives,weighted_cost,model,preprocessing,balance_method,timestamp,train_size,experiment,used_extracted_features
+0.9715,0.9527702089009991,0.9952561669829222,0.9735498839907193,0.9437418328556813,0.942687417173263,0.9966151297182584,0.05496828752642706,0.004743833017077799,894,52,5,1049,0.051,xgboost,phishing_count_vector,ninguno,2025-08-12 17:01:23,90000,Modelo Final Balanceado,True
